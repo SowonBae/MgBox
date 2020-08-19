@@ -1,1 +1,136 @@
-<mxfile host="app.diagrams.net" modified="2020-08-19T13:50:49.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="9xvSZQy_Jxk5ePpxWIqI" version="13.6.3" type="github"><diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">7Vttb5s6GP01SHcfVoEJSfuxYckmLbmr2m77eOWCA9YIRsZ526+fDTaEOGlhd2m8JlLUwMMTg59zfGyfJpbrz9cfKcziKQlRYgE7XFvuBwsABwCXv4nIpowMbgZlIKI4lEl14AH/RDJoy+gChyhvJDJCEoazZjAgaYoC1ohBSsmqmTYjSfOuGYyQFngIYKJHv+OQxWX02rPr+CeEo1jd2bHllTlUyTKQxzAkq0YIrdmYpEw+4h2ic5iilPErU0h/IGp5o5gx0dNbC4z5ayayryJCogTBDOdXAZnzcJDzlPEMznEiyrzV0FA2xG/njizXp4Sw8mi+9lEisFIwlM80PnC1qgMV7bb4gP9+uZn8sFn6aeV+Y9NpdDd4ei9bWcJkIesra8M2quAo5PWXp/xWmG3uUQIZJumovjJEaXgr0OVJo/ufiJJHMoUp7/wwZ5Cy+hpJZfoY88dzPzgqRZ7b/FzvmnzOnCxogJ7pD+hJSkIaIfZMYl8CHjbYJiv3EZE5YnTDE1Y1xyomxdv8UkFaFGXZZCmUTIqqBqt73BFcEEsOTLcn21HDUlFSNVF2XX5qG+adhno7DfV3GypLozXED7Y6XocKFnVhFHhjlHJbMsoZGEapnt1kgnP9u5TqNxsCtveqlNIZ9YWGiOYar7iiZ+KQwaeCQQUJ5BTmChbwSYlBnHL9LVkSkCSBWY6L9DIS4yScwA1ZMNWQOhvO8BqF9+UMJnI5/ya8sVxSTMwFitXiMkxwlPLjgFNO3HFIUc6fZQJzJjMOknKJKEPrZ1mksPF2QFbDfYtlwNvHMtc+TKgGgl3hcl8WAAUU7zrDMLnnCwWYRgVmTUhEXUNKskc1+kQgE0RDdLRE5VRdFJ8PdZ8kRCCbloJQpBWd84b8xbvr21ee5fEH8Pm5U5/zl0inzCdpzijEBRyIA7VCAqwhI5m8T4Jm6jGoLKY4fiKM8Zn/EKzP0vplrCW2bktoj4ZsT0P27nMXbAnv6ywpVDvGYYjSckiKdSKs8d4D5d76VzXfBWN3ILbEw22NxxYA7mvW39PqT4QQ/sc/5APr1i5V+98vj+Lv18nEqpa6JsGjdLHMHeYZDHAaTcpP9nfw846B39o6OJ7Aa+LZP2el3L8q+zNK2T+1Ug40ZMefnS7gvtJYbAlAvzUAp5LGa63gwSLnfS7VEeyRRuOweFEX/zhYpujgzUUHj6ODN6fWQeUa/ia0ZqngTevyn0oFHd3PK1eIIWSIx+XbWchge7RMkUFH3zk/xDibF6J18To0rwNct5S343kdjr4lPqOpq8Pm2mm/OzPF7XD07fZbsjsq6ho8nekb5FwK4sXz6AqiMbOcvjc+I8nssNzsLpkntz0cfRv+V/seFVcN1kh981yZwmdle3TAyhQpBP9vd3yRQoOdD6BvxQ0cfC3rXxHVXB1U5d23VjxD96MDYsaooW5/+NLDv9gf1tZXOzp/1cM+GmQX+6PlcPz77A/wtu0PYL79AXT746V/ap6T99EBQWOmuIv3cSy9PLn3AXTvw8DB2Lb+5hsfQDc+KnVM4Vys9IMY0n88+93ZLPpNskD4af3jlvKr4PUvktzRLw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-19T14:37:13.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="G2dGJRVGVJYoh5RnI0_6" version="13.6.3" type="github">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+    <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="13mMRAGHiYxRhaVL-clk-42" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="10" y="500" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-71" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="460" y="40" width="230" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-46" value="" style="group" vertex="1" connectable="0" parent="13mMRAGHiYxRhaVL-clk-71">
+          <mxGeometry width="230" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-43" value="AGELIMIT(연령제한)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-46">
+          <mxGeometry x="51" y="120" width="179" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-44" value="RUNTIME(상영시간)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-46">
+          <mxGeometry x="51" y="150" width="179" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-45" value="DEMENSION(2D,3D,4D)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-46">
+          <mxGeometry x="51" y="180" width="179" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-32" value="MOVIE(영화)" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-46">
+          <mxGeometry width="230" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-33" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-32">
+          <mxGeometry y="30" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-34" value="PK" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-33">
+          <mxGeometry width="51" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-35" value="MOVIENAME(영화명)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-33">
+          <mxGeometry x="51" width="179" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-36" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-32">
+          <mxGeometry y="60" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-37" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-36">
+          <mxGeometry width="51" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-38" value="MOVIEPOST(영화포스터)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-36">
+          <mxGeometry x="51" width="179" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-39" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-32">
+          <mxGeometry y="90" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-40" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-39">
+          <mxGeometry width="51" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-41" value="OPENDATE(개봉일)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-39">
+          <mxGeometry x="51" width="179" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-47" value="NN" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-46">
+          <mxGeometry y="60" width="51" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-51" value="NN" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-46">
+          <mxGeometry y="180" width="51" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-50" value="NN" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-46">
+          <mxGeometry y="150" width="51" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-49" value="NN" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-46">
+          <mxGeometry y="120" width="51" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-48" value="NN" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-46">
+          <mxGeometry y="90" width="51" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-106" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="740" y="270" width="370" height="244" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-105" value="" style="group" vertex="1" connectable="0" parent="13mMRAGHiYxRhaVL-clk-106">
+          <mxGeometry width="370" height="244" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-73" value="" style="group" vertex="1" connectable="0" parent="13mMRAGHiYxRhaVL-clk-105">
+          <mxGeometry width="370" height="244" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-52" value="" style="group" vertex="1" connectable="0" parent="13mMRAGHiYxRhaVL-clk-73">
+          <mxGeometry width="370" height="244" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-56" value="THEATER(극장)" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-52">
+          <mxGeometry width="370" height="244" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-57" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-56">
+          <mxGeometry y="30" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-58" value="PK" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-57">
+          <mxGeometry width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-59" value="BRANCHCODE(지점번호)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-57">
+          <mxGeometry x="82" width="288" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-60" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-56">
+          <mxGeometry y="60" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-61" value="NN" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-60">
+          <mxGeometry width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-62" value="REGION(지역)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-60">
+          <mxGeometry x="82" width="288" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-63" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-56">
+          <mxGeometry y="90" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-64" value="NN" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-63">
+          <mxGeometry width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-65" value="BRANCHNAME(지점명)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-63">
+          <mxGeometry x="82" width="288" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-95" value="CK" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-52">
+          <mxGeometry y="148.97501545911715" width="82.04347826086956" height="24.534065934065932" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-94" value="THEATERKIND(상영관종류-특별관,일반상영관)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-52">
+          <mxGeometry x="82.04347826086956" y="149.97501545911715" width="287.95652173913044" height="24.534065934065932" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-99" value="THEATERNAME(특별관이름)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-52">
+          <mxGeometry x="82.04" y="174.5049230769231" width="287.96" height="36.95661538461538" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-86" value="THEATERNUM(상영관번호-1관,2관,3관,4관)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-52">
+          <mxGeometry x="82.03999999999996" y="120.36923076923077" width="287.96" height="24.4" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-87" value="NN" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-52">
+          <mxGeometry y="122.36923076923077" width="82.04" height="22.48553846153846" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-91" value="NN" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-52">
+          <mxGeometry y="215.64615384615382" width="82.04" height="28.153846153846153" as="geometry" />
+        </mxCell>
+        <mxCell id="13mMRAGHiYxRhaVL-clk-90" value="SEATCOUNT(좌석수)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="13mMRAGHiYxRhaVL-clk-52">
+          <mxGeometry x="82.03999999999996" y="209.83076923076922" width="287.96" height="33.78461538461538" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
